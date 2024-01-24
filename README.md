@@ -17,7 +17,3 @@ Below are a few links you can visit.
 
 ## Activity On GitHub and  My Stats:
 ![Olayiwolaaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olayiwolaaa&theme=gruvbox&hide_border=true)
-![Olayiwolaaa's Stats](https://github-readme-stats.vercel.app/api?username=Olayiwolaaa&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-
-## Most Used Languages:
-![Olayiwolaaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olayiwolaaa&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)

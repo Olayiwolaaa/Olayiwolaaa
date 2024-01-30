@@ -12,8 +12,3 @@ Below are a few links you can visit.
 - 🌱 Learning MERN stack & more.
 - 👯 I’m available to collaborate on PHP, JS, Python or Flutter project.
 - 📫 How to reach me: 💬 <a href="https//:wa.me/+2347084419791" target="_blank">`[WhatsApp]`</a>,  📥 <a href="mailto:muizzkara91@gmail.com" target="_blank">`[Email]`</a>.
-
-<div align="center">
-
-## Activity On GitHub and  My Stats:
-![Olayiwolaaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olayiwolaaa&theme=gruvbox&hide_border=true)

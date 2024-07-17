@@ -1,5 +1,6 @@
 <div align=center>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Olayiwolaaa" alt="GitHub Streak" /></a>
 
 ## Hi there 👋🏽, I'm [Olayiwola](https://github.com/Olayiwolaaa)
 

@@ -1,6 +1,6 @@
 <div align=center>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Olayiwolaaa&theme=dark&card_width=300&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Olayiwolaaa&theme=highcontrast&hide_border=true&card_width=300&hide_total_contributions=true)](https://git.io/streak-stats)
 
 <div align=center>
 
